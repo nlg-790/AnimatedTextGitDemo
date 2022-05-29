@@ -7,5 +7,5 @@ function makeElement(type, attributes, text) {
   
   const h1 = makeElement('hi', {
     class: 'title',
-    id: 'blhhh'
+    id: 'blhh'
   })
