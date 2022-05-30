@@ -2,8 +2,8 @@ body {
     display: flex;
     justify-content: center;
     align-items: center;
-    height: 100vh;
-    background-color: orchid;
+    height: 100vh; 
+    background-color: teal;
   }
   
   h1 {
